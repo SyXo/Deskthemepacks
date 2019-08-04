@@ -11,8 +11,9 @@ StartIsBack++ is a start menu replacement program that restores the Windows 7 st
 AeroGlass for Win8+ - Supported Operating Systems = Windows 8 - 10
 AeroGlass for Win8+ is a system mod of sorts that restores the glassy feel originally found in Windows 7 and windows Vista to windows 10.
 
+T-Clock Redux - T-Clock Reduz is a simple programd the allows you to customize the fonts and style of your task tray clock. It can also give you a customizeable calander in place of the default Windows calander.
 
-
+Classic Appearance Menu - Classic Appearance Menu is a registry edit of which adds a "Appearance" menu in your desktop context menu. This "Appearance" menu includes the classic Windows 7 style Personalization window for selecting themes as well as some other Classic Windows 7 style customization windows. It is a slight mod of the "Personaliztion (Clasic)" menu in which i simply changed the name that appears in the Desktop Context Menu to make it look cleaner and less intrusive.
 
 -- Details Pt.2
 
@@ -22,7 +23,7 @@ StartIsBack++ - StartIsBack++ does NOT modify any system files, and as suchis sa
 
 AeroGlass for Win8+ - AeroGlass for Win8+ IS a system mod. As such it has multiple versions. Each version will only work on SPECIFIC builds of Windows 8 and or Windows 10. As such if you use a version that IS NOT built for the OS of build you are currently running, YOU WILL bork your system. So be very careful when running AeroGlass as I am NOT responsible for anyone who borks their system by not paying attention to details on the website. 
 
-
+T-Clock Redux - T-Clock Redux works mostly fine on Windows 8 - 10. It has some items which are intended for certain builds, however it states within the program which builds they will and will not work on. So long as you don't do anything it tells you not to, you should have no problems with it.
 
 -- Details Pt.3
 
@@ -33,3 +34,5 @@ Old New Explorer = https://msfn.org/board/topic/170375-oldnewexplorer-118/
 StartIsBack++ = https://msfn.org/board/forum/181-startisback/
 
 AeroGlass for Win8+ = http://www.msfn.org/board/forum/180-aero-glass-for-windows-8/
+
+T-Clock Redux = https://github.com/White-Tiger/T-Clock/releases

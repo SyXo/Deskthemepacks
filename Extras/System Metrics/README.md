@@ -1,0 +1,1 @@
+System Metrics provided are for use on Windows 10 ONLY. They are not compatible with any other OS.
