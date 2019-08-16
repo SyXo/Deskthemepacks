@@ -20,4 +20,4 @@ Collection of Deskthemepacks for Windows 8, 8.1, 8.1.1, 10 user.s
 >- The Extras ARE NOT needed to make the deskthemepacks work they simply give added aesthetics.
 
 ## Official Support Discord for PhantomNimbi
-PhantomDEV - https://discord.gg/cFQRtgJ/
+PhantomDEV - https://auttaja.io/PhantomDEV
