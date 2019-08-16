@@ -17,6 +17,7 @@ Collection of Deskthemepacks for Windows 8, 8.1, 8.1.1, 10 user.s
 >- Elegant Dark
 >- Naruto
 >- Your Lie in April
+>- Tokyo Ghoul
 
 ## Extras
 
