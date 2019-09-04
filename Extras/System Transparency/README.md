@@ -1,0 +1,1 @@
+I recomend setting transparency to about 240 for best results and good readability.
