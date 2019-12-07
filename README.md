@@ -25,5 +25,6 @@ Collection of Deskthemepacks for Windows 8, 8.1, 8.1.1, 10 user.s
 >- Some deskthemepacks are AeroHybrids of which will be massively improved by certain extras, while others are simple Aero deskthemepacks.
 >- The Extras **ARE NOT** needed to make the deskthemepacks work they simply give added aesthetics.
 
-## Official Support Discord for PhantomNimbi
->- **PhantomDEV** - https://auttaja.io/PhantomDEV
+## Important
+
+All Deskthemepacks are shared AS IS. Updates MAY or MAY NOT be uploaded. The creator of thses Deskthemepacks is disabled and dos not always have time to update AND/OR create new desktheepacks.
